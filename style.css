@@ -1,0 +1,94 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container {
+    text-align: center;
+}
+
+#mycarousel {
+    background-color: cornflowerblue;
+}
+
+#mycarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 30px;
+}
+
+.line {
+
+    height: 5px;
+    background-color: darkslateblue;
+    width: 1920px;
+    margin: 15px auto;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+#grid_gallery {
+    text-align: center
+}
+
+#grid2 {
+    text-align: center
+}
+
+#img1 {
+    height: 300px;
+    width: 300px;
+    margin-right: 15px;
+}
+
+#img2 {
+    height: 300px;
+    width: 300px;
+    margin-right: 15px;
+}
+
+#img3 {
+    height: 300px;
+    width: 300px;
+    margin-right: 15px;
+}
+
+#img4 {
+    height: 300px;
+    width: 300px;
+    margin-right: 15px;
+}
+
+#img5 {
+    height: 300px;
+    width: 300px;
+    margin-right: 15px;
+}
+
+#img6 {
+    height: 300px;
+    width: 300px;
+    margin-right: 15px;
+}
+
+#img7 {
+    height: 300px;
+    width: 300px;
+    margin-right: 15px;
+}
+
+#img8 {
+    height: 300px;
+    width: 300px;
+    margin-right: 15px;
+}
